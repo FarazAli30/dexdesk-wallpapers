@@ -1,0 +1,15 @@
+{
+  "name": "dexdesk-wallpapers",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Wallpaper catalog and thumbnail generator for DexDesk",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-wallpapers.mjs",
+    "validate": "node scripts/validate-wallpapers.mjs",
+    "build": "npm run generate && npm run validate"
+  },
+  "dependencies": {
+    "sharp": "^0.34.4"
+  }
+}
