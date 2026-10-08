@@ -1,0 +1,8 @@
+# Keep GitHub from modifying binary wallpaper files.
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.avif binary
+*.tif binary
+*.tiff binary

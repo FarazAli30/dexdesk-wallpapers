@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Temporary/local generated files
+*.tmp
+*.part
