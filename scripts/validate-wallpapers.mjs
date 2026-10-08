@@ -83,7 +83,8 @@ async function main() {
   );
 
   const unsupported = files.filter(file =>
-    !SUPPORTED.has(path.extname(file).toLowerCase())
+    !SUPPORTED.has(path.extname(file).toLowerCase()) &&
+    !path.basename(file).startsWith(".")
   );
 
   if (unsupported.length) {
