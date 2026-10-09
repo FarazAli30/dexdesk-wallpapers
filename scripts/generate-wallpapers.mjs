@@ -211,7 +211,7 @@ async function main() {
       wallpapers.push({
         id,
         title,
-        category: "Uncategorized",
+        category: (path.relative(ORIGINALS, path.dirname(input)).split(path.sep)[0] || "uncategorized").toLowerCase(),
         tags: [],
         original: relativeOriginal,
         thumbnail: toPosix(path.relative(ROOT, thumbnailPath)),
