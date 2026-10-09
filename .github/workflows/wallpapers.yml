@@ -1,15 +1,6 @@
 name: Build Wallpapers Catalog
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - "originals/**"
-      - "scripts/**"
-      - "package.json"
-      - "package-lock.json"
-      - ".github/workflows/wallpapers.yml"
   workflow_dispatch:
 
 permissions:
