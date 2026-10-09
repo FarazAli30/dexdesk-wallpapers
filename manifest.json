@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "manifestVersion": 1,
-  "generatedAt": "2026-10-09T10:55:17.362Z",
+  "generatedAt": "2026-10-09T11:02:01.034Z",
   "generator": "DexDesk Wallpapers Generator",
   "thumbnail": {
     "format": "webp",
@@ -23,7 +23,7 @@
     {
       "id": "abstract-blue-texture",
       "title": "Abstract Blue Texture",
-      "category": "Uncategorized",
+      "category": "art",
       "tags": [],
       "original": "originals/art/abstract-blue-texture.jpg",
       "thumbnail": "thumbnails/abstract-blue-texture.webp",
@@ -41,7 +41,7 @@
     {
       "id": "abstract-line-glass",
       "title": "Abstract Line Glass",
-      "category": "Uncategorized",
+      "category": "art",
       "tags": [],
       "original": "originals/art/abstract-line-glass.jpg",
       "thumbnail": "thumbnails/abstract-line-glass.webp",
@@ -59,7 +59,7 @@
     {
       "id": "abstract-sunset",
       "title": "Abstract Sunset",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/abstract-sunset.jpg",
       "thumbnail": "thumbnails/abstract-sunset.webp",
@@ -77,7 +77,7 @@
     {
       "id": "abstract-x-neon-shape",
       "title": "Abstract X Neon Shape",
-      "category": "Uncategorized",
+      "category": "art",
       "tags": [],
       "original": "originals/art/abstract-x-neon-shape.jpg",
       "thumbnail": "thumbnails/abstract-x-neon-shape.webp",
@@ -95,7 +95,7 @@
     {
       "id": "bright-lines-colors",
       "title": "Bright Lines Colors",
-      "category": "Uncategorized",
+      "category": "art",
       "tags": [],
       "original": "originals/art/bright-lines-colors.jpg",
       "thumbnail": "thumbnails/bright-lines-colors.webp",
@@ -113,7 +113,7 @@
     {
       "id": "bright-red-shapes",
       "title": "Bright Red Shapes",
-      "category": "Uncategorized",
+      "category": "art",
       "tags": [],
       "original": "originals/art/bright-red-shapes.jpg",
       "thumbnail": "thumbnails/bright-red-shapes.webp",
@@ -131,7 +131,7 @@
     {
       "id": "ctr-ferrari-458",
       "title": "Ctr Ferrari 458",
-      "category": "Uncategorized",
+      "category": "sports",
       "tags": [],
       "original": "originals/sports/ctr-ferrari-458.jpg",
       "thumbnail": "thumbnails/ctr-ferrari-458.webp",
@@ -149,7 +149,7 @@
     {
       "id": "cubes-dark-minimal",
       "title": "Cubes Dark Minimal",
-      "category": "Uncategorized",
+      "category": "art",
       "tags": [],
       "original": "originals/art/cubes-dark-minimal.jpg",
       "thumbnail": "thumbnails/cubes-dark-minimal.webp",
@@ -167,7 +167,7 @@
     {
       "id": "cyber-city-reflection",
       "title": "Cyber City Reflection",
-      "category": "Uncategorized",
+      "category": "art",
       "tags": [],
       "original": "originals/art/cyber-city-reflection.jpg",
       "thumbnail": "thumbnails/cyber-city-reflection.webp",
@@ -185,7 +185,7 @@
     {
       "id": "cyberpunk-rider",
       "title": "Cyberpunk Rider",
-      "category": "Uncategorized",
+      "category": "sports",
       "tags": [],
       "original": "originals/sports/cyberpunk-rider.jpg",
       "thumbnail": "thumbnails/cyberpunk-rider.webp",
@@ -203,7 +203,7 @@
     {
       "id": "desert-tree-of-life",
       "title": "Desert Tree Of Life",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/desert-tree-of-life.jpg",
       "thumbnail": "thumbnails/desert-tree-of-life.webp",
@@ -221,7 +221,7 @@
     {
       "id": "faroe-islands-lake",
       "title": "Faroe Islands Lake",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/faroe-islands-lake.jpg",
       "thumbnail": "thumbnails/faroe-islands-lake.webp",
@@ -239,7 +239,7 @@
     {
       "id": "ferrari-458-italy",
       "title": "Ferrari 458 Italy",
-      "category": "Uncategorized",
+      "category": "sports",
       "tags": [],
       "original": "originals/sports/ferrari-458-italy.jpg",
       "thumbnail": "thumbnails/ferrari-458-italy.webp",
@@ -257,7 +257,7 @@
     {
       "id": "ferrari-488",
       "title": "Ferrari 488",
-      "category": "Uncategorized",
+      "category": "sports",
       "tags": [],
       "original": "originals/sports/ferrari-488.jpg",
       "thumbnail": "thumbnails/ferrari-488.webp",
@@ -275,7 +275,7 @@
     {
       "id": "ferrari-best",
       "title": "Ferrari Best",
-      "category": "Uncategorized",
+      "category": "sports",
       "tags": [],
       "original": "originals/sports/ferrari-best.jpg",
       "thumbnail": "thumbnails/ferrari-best.webp",
@@ -293,7 +293,7 @@
     {
       "id": "ferrari-f12",
       "title": "Ferrari F12",
-      "category": "Uncategorized",
+      "category": "sports",
       "tags": [],
       "original": "originals/sports/ferrari-f12.jpg",
       "thumbnail": "thumbnails/ferrari-f12.webp",
@@ -311,7 +311,7 @@
     {
       "id": "horses-dancing",
       "title": "Horses Dancing",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/horses-dancing.jpg",
       "thumbnail": "thumbnails/horses-dancing.webp",
@@ -329,7 +329,7 @@
     {
       "id": "horses-running-field",
       "title": "Horses Running Field",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/horses-running-field.jpg",
       "thumbnail": "thumbnails/horses-running-field.webp",
@@ -347,7 +347,7 @@
     {
       "id": "houses-on-ship",
       "title": "Houses On Ship",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/houses-on-ship.jpg",
       "thumbnail": "thumbnails/houses-on-ship.webp",
@@ -365,7 +365,7 @@
     {
       "id": "lakescape-sunset",
       "title": "Lakescape Sunset",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/lakescape-sunset.jpg",
       "thumbnail": "thumbnails/lakescape-sunset.webp",
@@ -383,7 +383,7 @@
     {
       "id": "lofoten-norwegen",
       "title": "Lofoten Norwegen",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/lofoten-norwegen.jpg",
       "thumbnail": "thumbnails/lofoten-norwegen.webp",
@@ -401,7 +401,7 @@
     {
       "id": "macos-big-sur",
       "title": "Macos Big Sur",
-      "category": "Uncategorized",
+      "category": "art",
       "tags": [],
       "original": "originals/art/macos-big-sur.jpg",
       "thumbnail": "thumbnails/macos-big-sur.webp",
@@ -419,7 +419,7 @@
     {
       "id": "midnight-forest-outpost",
       "title": "Midnight Forest Outpost",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/midnight-forest-outpost.jpg",
       "thumbnail": "thumbnails/midnight-forest-outpost.webp",
@@ -437,7 +437,7 @@
     {
       "id": "razer",
       "title": "Razer",
-      "category": "Uncategorized",
+      "category": "art",
       "tags": [],
       "original": "originals/art/razer.jpg",
       "thumbnail": "thumbnails/razer.webp",
@@ -455,7 +455,7 @@
     {
       "id": "razer-inc",
       "title": "Razer Inc",
-      "category": "Uncategorized",
+      "category": "art",
       "tags": [],
       "original": "originals/art/razer-inc.jpg",
       "thumbnail": "thumbnails/razer-inc.webp",
@@ -473,7 +473,7 @@
     {
       "id": "razer-inc-dark",
       "title": "Razer Inc Dark",
-      "category": "Uncategorized",
+      "category": "art",
       "tags": [],
       "original": "originals/art/razer-inc-dark.jpg",
       "thumbnail": "thumbnails/razer-inc-dark.webp",
@@ -491,7 +491,7 @@
     {
       "id": "red-leave",
       "title": "Red Leave",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/red-leave.jpg",
       "thumbnail": "thumbnails/red-leave.webp",
@@ -509,7 +509,7 @@
     {
       "id": "red-umbrella",
       "title": "Red Umbrella",
-      "category": "Uncategorized",
+      "category": "art",
       "tags": [],
       "original": "originals/art/red-umbrella.jpg",
       "thumbnail": "thumbnails/red-umbrella.webp",
@@ -527,7 +527,7 @@
     {
       "id": "retro-wave-80s",
       "title": "Retro Wave 80s",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/retro-wave-80s.jpg",
       "thumbnail": "thumbnails/retro-wave-80s.webp",
@@ -545,7 +545,7 @@
     {
       "id": "rooftop-date-night",
       "title": "Rooftop Date Night",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/rooftop-date-night.jpg",
       "thumbnail": "thumbnails/rooftop-date-night.webp",
@@ -563,7 +563,7 @@
     {
       "id": "shooting-star",
       "title": "Shooting Star",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/shooting-star.jpg",
       "thumbnail": "thumbnails/shooting-star.webp",
@@ -581,7 +581,7 @@
     {
       "id": "stellar-highway-midnight-drive",
       "title": "Stellar Highway Midnight Drive",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/stellar-highway-midnight-drive.jpg",
       "thumbnail": "thumbnails/stellar-highway-midnight-drive.webp",
@@ -599,7 +599,7 @@
     {
       "id": "stones-background",
       "title": "Stones Background",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/stones-background.jpg",
       "thumbnail": "thumbnails/stones-background.webp",
@@ -617,7 +617,7 @@
     {
       "id": "stones-landscape",
       "title": "Stones Landscape",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/stones-landscape.jpg",
       "thumbnail": "thumbnails/stones-landscape.webp",
@@ -635,7 +635,7 @@
     {
       "id": "sunset-twist",
       "title": "Sunset Twist",
-      "category": "Uncategorized",
+      "category": "art",
       "tags": [],
       "original": "originals/art/sunset-twist.jpg",
       "thumbnail": "thumbnails/sunset-twist.webp",
@@ -653,7 +653,7 @@
     {
       "id": "synthwave-east",
       "title": "Synthwave East",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/synthwave-east.jpg",
       "thumbnail": "thumbnails/synthwave-east.webp",
@@ -671,7 +671,7 @@
     {
       "id": "synthwave-neon-bike-rider",
       "title": "Synthwave Neon Bike Rider",
-      "category": "Uncategorized",
+      "category": "sports",
       "tags": [],
       "original": "originals/sports/synthwave-neon-bike-rider.jpg",
       "thumbnail": "thumbnails/synthwave-neon-bike-rider.webp",
@@ -689,7 +689,7 @@
     {
       "id": "triangles-world",
       "title": "Triangles World",
-      "category": "Uncategorized",
+      "category": "art",
       "tags": [],
       "original": "originals/art/triangles-world.jpg",
       "thumbnail": "thumbnails/triangles-world.webp",
@@ -707,7 +707,7 @@
     {
       "id": "yard-synthwave-illustration",
       "title": "Yard Synthwave Illustration",
-      "category": "Uncategorized",
+      "category": "nature",
       "tags": [],
       "original": "originals/nature/yard-synthwave-illustration.jpg",
       "thumbnail": "thumbnails/yard-synthwave-illustration.webp",
